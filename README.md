@@ -1,4 +1,5 @@
 El Tres en Raya es un juego muy popular.
+
 Objetivo: El objetivo de este juego es lograr formar una línea recta con “X” o “0” en forma horizontal, vertical o diagonal.
 
 Reglas:
